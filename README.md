@@ -1,5 +1,9 @@
-### Hi there 👋
-
+## Olá, eu sou a Isabella Quaranta e bem vindes ao meu Github!
+<div align="center">
+  <a href="https://www.linkedin.com/in/annaisabellagq/" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BellaQuaranta&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellaQuaranta&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <!--
 **BellaQuaranta/BellaQuaranta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
