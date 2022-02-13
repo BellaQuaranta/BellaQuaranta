@@ -1,4 +1,4 @@
-## Olá, eu sou a Isabella Quaranta e sou uma desenvolvedora Front-end
+## Olá, eu sou a Isabella Quaranta e sou uma desenvolvedora Front-end.
 <div align="center">
   <a href="https://github.com/BellaQuaranta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BellaQuaranta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
